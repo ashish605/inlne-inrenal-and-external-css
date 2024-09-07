@@ -1,0 +1,30 @@
+* {
+    background-color: slategrey;
+}
+
+.box {
+    background-color: grey;
+    padding: 10px;
+    margin: 15px;
+    border: 5px solid gold;
+    height: 100px;
+    box-sizing: border-box;
+    /* total 100px size of padding and braoder and content */
+}
+
+.box1 {
+    color: goldenrod;
+}
+
+.box2 {
+    color: aliceblue;
+}
+
+.new{
+   background-color: grey;
+    margin: 150px;
+    border: solid goldenrod;
+}
+.new:hover{
+    color: gold;
+}
